@@ -15,7 +15,7 @@ Please note that there will not be any homework answer uploaded here.
 * [Week 01: Introduction](week01.md)
 * [Week 02: Security Policies](week02.md)
 * [Week 03: Information Flow](week03.md)
-* [Week 04: Distributed Systems ](week04.md)
+* [Week 04: Distributed Systems](week04.md)
 * [Week 05: Symmetric Encryption](week05.md)
 * Week 06: Mid-term Exam
 * Week 07: Recess
