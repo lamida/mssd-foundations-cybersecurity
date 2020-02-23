@@ -11,7 +11,7 @@ Please note that there will not be any homework answer uploaded here.
 * [FSK]: Niels Ferguson, Bruce Schneier, and Tadayoshi Kohno, Cryptography Engineering: Design Principles and Practical Applications
 * [RA]: Ross Anderson, Security Engineering
 
-Lecture Notes:
+## Lecture Notes (WIP)
 * [Week 01: Introduction](week01.md)
 * [Week 02: Security Policies](week02.md)
 * [Week 03: Information Flow](week03.md)
